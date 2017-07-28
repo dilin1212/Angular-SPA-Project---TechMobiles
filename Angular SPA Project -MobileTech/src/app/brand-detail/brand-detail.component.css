@@ -1,0 +1,41 @@
+
+section {
+  float: center;
+  margin: 0 4.5%;
+  width: 40%;
+  height: 20px;
+}
+
+.container {
+    margin-top: 100px;
+    width: auto;
+    height: auto;
+}
+.container-fluid{
+margin-top: 50px;
+    width: auto;
+    height: auto;
+}
+
+
+
+
+h2 {
+    font-family:  'Lucida Sans Unicode';
+    font-size: 30px;
+    color: #FF1493;
+}
+p {
+    padding: 10px;
+}
+
+
+
+
+
+
+.image {
+       display: block;
+    margin: 0 auto;
+}
+

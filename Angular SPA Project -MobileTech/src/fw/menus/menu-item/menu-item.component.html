@@ -1,0 +1,17 @@
+<div class="menu-item">
+  <span class="glyphicon {{ item.icon }}"></span>
+  <span>{{ item.text.toUpperCase() }}</span>
+
+ 
+
+</div>
+<fw-popup-menu
+    *ngIf="mouseInPopup || mouseInItem" 
+    [menu]='item.submenu'
+    
+    (mouseleave)="onPopupMouseLeave($event)" 
+    (mouseenter)="onPopupMouseEnter($event)"
+    [style.left.px]="popupLeft"
+    [style.top.px]="popupTop"
+    @visibilityChanged>
+</fw-popup-menu>

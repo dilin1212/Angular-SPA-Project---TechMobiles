@@ -1,0 +1,9 @@
+:host {
+    position: absolute;
+    display: inline-block;
+    width: 162px;
+    background-color: white;
+    border: 1px solid black;
+    box-shadow: 1px 1px 5px #aaa;
+}
+

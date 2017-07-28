@@ -1,0 +1,129 @@
+.jumbotron {
+    color: #efefef;
+    background-color: rgba(157,52,99,0.7);
+    width: 100%;
+}
+section {
+  float: center;
+  margin: 0 4.5%;
+  width: 40%;
+  height: 20px;
+}
+
+.container {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    width: auto;
+    height: auto;
+}
+.container-fluid{
+margin-top: 50px;
+    width: auto;
+    height: auto;
+}
+
+.img-fluid {
+   max-width: 100%;
+   height: auto;
+   padding: auto;
+   margin: auto;
+   margin-right: 0;
+   align-content: center
+}
+
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: white;
+    padding: 10px;
+}
+h2 {
+    font-family:  'Lucida Sans Unicode';
+    font-size: 30px;
+    color: #FF1493;
+}
+p {
+    padding: 10px;
+}
+
+.text {
+    background-color: #6495ED	;
+    color: white;
+    font-family:  'Arial', 'sans-serif';
+    padding: 5px;
+    margin-right: 0;
+    margin-bottom: 10px;
+    height: 350px;
+
+  
+}
+.textipad {
+    background-color: #FFD700	;
+    color: white;
+    font-family:  'Arial', 'sans-serif';
+    padding: 5px;
+    margin-right: 0;
+    margin-bottom: 10px;
+    min-height: 50px;
+     height: 350px;
+ 
+}
+.textdesk {
+    background-color: #800000	;
+    color: white;
+    font-family:  'Arial', 'sans-serif';
+    padding: 5px;
+    margin-right: 0;
+    margin-bottom: 10px;
+      height: 350px;
+ 
+}
+.textnokia {
+    background-color: #FF4500;
+    color: white;
+    font-family:  'Arial', 'sans-serif';
+    font-size: 20px;
+    padding: 5px;
+    margin-right: 0;
+    margin-bottom: 10px;
+     height: 350px;
+}
+ .textnokiaedg{
+     background-color: #9ACD32;
+    color: white;
+    font-family:  'Arial', 'sans-serif';
+    font-size: 20px;
+    padding: 5px;
+    margin-right: 0;
+    margin-bottom: 10px;
+     height: 540px;
+ }
+ .textsamsung{
+     background-color: lightgreen;
+    color: white;
+    font-family:  'Arial', 'sans-serif';
+    font-size: 20px;
+    padding: 5px;
+    margin-right: 0;
+    margin-bottom: 10px;
+     
+ }
+ .textsamtablet {
+    background-color: #483D8B;
+    color: white;
+    font-family:  'Arial', 'sans-serif';
+    font-size: 20px;
+    padding: 5px;
+    margin-right: 0;
+    margin-bottom: 10px;
+     height: 350px;
+}
+.image {
+       display: block;
+    margin: 0 auto;
+}
+.bold {
+    text-align: center;
+    color: #FF1493;
+}

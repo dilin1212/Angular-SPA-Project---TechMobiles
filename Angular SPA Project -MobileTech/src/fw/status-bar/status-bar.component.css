@@ -1,0 +1,25 @@
+
+.container {
+   border-top: px;
+   width: 100%;
+   height: auto;
+   background-color: #008080; 
+}
+h1 {
+    color: lightcoral;
+}
+h3 {
+    color: lightcoral;
+}
+p {
+    color: yellow;
+}
+strong {
+    color: yellow;
+}
+a {
+    color: #800080;
+}
+.form-control {
+    min-height: 100px;
+}
